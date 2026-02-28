@@ -138,13 +138,30 @@ Raw Data → Cleaning → Prediction → Optimization
 
 ---
 
-## 📸 Screens (Add Your Images Here)
+## 📸 Screens 
 
 * 🏠 Dashboard
+  
+<img width="1397" height="741" alt="image" src="https://github.com/user-attachments/assets/b087e458-184a-4502-bdcc-021034368d2c" />
+
+
 * 💬 Chat Interface
+  
+<img width="1557" height="740" alt="image" src="https://github.com/user-attachments/assets/43a14e6b-e929-41af-ab9b-97aa97000ccc" />
+
+
 * 🗺️ Map View
+  
+<img width="1400" height="652" alt="image" src="https://github.com/user-attachments/assets/7fcf9a1f-20be-48ad-8a45-70ac90d9cada" />
+
+
 * 🌐 Digital Twin Simulator
+  
+<img width="1460" height="734" alt="image" src="https://github.com/user-attachments/assets/75ec4204-5c61-4c55-9a59-ca507d02d1f4" />
+
 * 🔐 Blockchain Proof
+  
+<img width="1453" height="729" alt="image" src="https://github.com/user-attachments/assets/20ab656f-921c-4fbe-8ab1-1c4073d5b959" />
 
 ---
 
